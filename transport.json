@@ -1,0 +1,112 @@
+[
+    {
+        "hanzi": "公共汽车",
+        "pinyin": "gōnggòng qìchē",
+        "arti": "Bus"
+    },
+    {
+        "hanzi": "汽车",
+        "pinyin": "qìchē",
+        "arti": "Mobil"
+    },
+    {
+        "hanzi": "皮卡车",
+        "pinyin": "píkǎchē",
+        "arti": "Mobil pickup"
+    },
+    {
+        "hanzi": "火车",
+        "pinyin": "huǒchē",
+        "arti": "Kereta api"
+    },
+    {
+        "hanzi": "飞机",
+        "pinyin": "fēijī",
+        "arti": "Pesawat"
+    },
+    {
+        "hanzi": "轮船",
+        "pinyin": "lúnchuán",
+        "arti": "Kapal"
+    },
+    {
+        "hanzi": "出租车",
+        "pinyin": "chūzūchē",
+        "arti": "Taksi"
+    },
+    {
+        "hanzi": "挖掘机",
+        "pinyin": "wājuéjī",
+        "arti": "Ekskavator"
+    },
+    {
+        "hanzi": "卡车",
+        "pinyin": "kǎchē",
+        "arti": "Truk"
+    },
+    {
+        "hanzi": "救护车",
+        "pinyin": "jiùhùchē",
+        "arti": "Ambulans"
+    },
+    {
+        "hanzi": "消防车",
+        "pinyin": "xiāofángchē",
+        "arti": "Mobil pemadam"
+    },
+    {
+        "hanzi": "警车",
+        "pinyin": "jǐngchē",
+        "arti": "Mobil polisi"
+    },
+    {
+        "hanzi": "叉车",
+        "pinyin": "chāchē",
+        "arti": "Forklift"
+    },
+    {
+        "hanzi": "船",
+        "pinyin": "chuán",
+        "arti": "Perahu"
+    },
+    {
+        "hanzi": "直升机",
+        "pinyin": "zhíshēngjī",
+        "arti": "Helikopter"
+    },
+    {
+        "hanzi": "高铁",
+        "pinyin": "gāotiě",
+        "arti": "Kereta cepat"
+    },
+    {
+        "hanzi": "电动汽车",
+        "pinyin": "diàndòng qìchē",
+        "arti": "Mobil listrik"
+    },
+    {
+        "hanzi": "轮渡",
+        "pinyin": "lúndù",
+        "arti": "Feri"
+    },
+    {
+        "hanzi": "自行车",
+        "pinyin": "zìxíngchē",
+        "arti": "Sepeda"
+    },
+    {
+        "hanzi": "三轮车",
+        "pinyin": "sānlúnchē",
+        "arti": "Becak"
+    },
+    {
+        "hanzi": "摩托车",
+        "pinyin": "mótuōchē",
+        "arti": "Sepeda motor"
+    },
+    {
+        "hanzi": "电动摩托车",
+        "pinyin": "diàndòng mótuōchē",
+        "arti": "Motor listrik"
+    }
+]

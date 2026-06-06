@@ -1,0 +1,91 @@
+MDScreen:
+
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: "15dp"
+        spacing: "10dp"
+
+        MDTopAppBar:
+            title: "Flashcard Mandarin"
+
+        # =====================
+        # Deck
+        # =====================
+        MDBoxLayout:
+            adaptive_height: True
+            spacing: "10dp"
+            size_hint_x: None
+            width: self.minimum_width
+            pos_hint: {"center_x": .5}
+
+            MDRaisedButton:
+                id: deck_btn
+                text: app.deck_name if app.deck_name else "Pilih Deck"
+                on_release: app.open_menu()
+
+            MDRaisedButton:
+                text: "Acak"
+                on_release: app.shuffle_deck()
+
+        # =====================
+        # Mode
+        # =====================
+        MDBoxLayout:
+            adaptive_height: True
+            spacing: "10dp"
+            size_hint_x: None
+            width: self.minimum_width
+            pos_hint: {"center_x": .5}
+
+            MDRaisedButton:
+                text: "Hanzi"
+                on_release: app.set_hanzi()
+
+            MDRaisedButton:
+                text: "Pinyin"
+                on_release: app.set_pinyin()
+
+            MDRaisedButton:
+                text: "Arti"
+                on_release: app.set_arti()
+
+        Widget:
+
+        # =====================
+        # Flashcard
+        # =====================
+        MDLabel:
+            text: app.current_text
+            halign: "center"
+            valign: "middle"
+            theme_text_color: "Primary"
+            font_name: "C:/Windows/Fonts/simsun.ttc"
+            font_size: "72sp"
+            size_hint_y: 0.5
+
+        MDLabel:
+            text: app.info_text
+            halign: "center"
+            theme_text_color: "Secondary"
+            size_hint_y: None
+            height: self.texture_size[1] + dp(20)
+
+        Widget:
+
+        # =====================
+        # Bottom Buttons
+        # =====================
+        MDBoxLayout:
+            adaptive_height: True
+            spacing: "10dp"
+            size_hint_x: None
+            width: self.minimum_width
+            pos_hint: {"center_x": .5}
+
+            MDRaisedButton:
+                text: "Jawaban"
+                on_release: app.show_answer()
+
+            MDRaisedButton:
+                text: "Berikutnya"
+                on_release: app.next_card()

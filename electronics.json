@@ -1,0 +1,103 @@
+
+[
+    {
+        "hanzi": "笔记本电脑",
+        "pinyin": "bǐjìběn diànnǎo",
+        "arti": "Laptop"
+    },
+    {
+        "hanzi": "电脑",
+        "pinyin": "diànnǎo",
+        "arti": "Komputer"
+    },
+    {
+        "hanzi": "电视",
+        "pinyin": "diànshì",
+        "arti": "Televisi"
+    },
+    {
+        "hanzi": "收音机",
+        "pinyin": "shōuyīnjī",
+        "arti": "Radio"
+    },
+    {
+        "hanzi": "冰箱",
+        "pinyin": "bīngxiāng",
+        "arti": "Kulkas"
+    },
+    {
+        "hanzi": "洗衣机",
+        "pinyin": "xǐyījī",
+        "arti": "Mesin cuci"
+    },
+    {
+        "hanzi": "空调",
+        "pinyin": "kōngtiáo",
+        "arti": "AC"
+    },
+    {
+        "hanzi": "风扇",
+        "pinyin": "fēngshàn",
+        "arti": "Kipas angin"
+    },
+    {
+        "hanzi": "灯",
+        "pinyin": "dēng",
+        "arti": "Lampu"
+    },
+    {
+        "hanzi": "微波炉",
+        "pinyin": "wēibōlú",
+        "arti": "Microwave"
+    },
+    {
+        "hanzi": "烤箱",
+        "pinyin": "kǎoxiāng",
+        "arti": "Oven"
+    },
+    {
+        "hanzi": "电饭煲",
+        "pinyin": "diànfànbāo",
+        "arti": "Rice cooker"
+    },
+    {
+        "hanzi": "搅拌机",
+        "pinyin": "jiǎobànjī",
+        "arti": "Blender"
+    },
+    {
+        "hanzi": "吸尘器",
+        "pinyin": "xīchénqì",
+        "arti": "Vacuum cleaner"
+    },
+{
+    "hanzi": "相机",
+    "pinyin": "xiàngjī",
+    "arti": "Kamera"
+},
+    {
+        "hanzi": "音箱",
+        "pinyin": "yīnxiāng",
+        "arti": "Speaker"
+    },
+    {
+        "hanzi": "耳机",
+        "pinyin": "ěrjī",
+        "arti": "Earphone"
+    },
+    {
+        "hanzi": "智能手表",
+        "pinyin": "zhìnéng shǒubiǎo",
+        "arti": "Smartwatch"
+    },
+    {
+        "hanzi": "充电宝",
+        "pinyin": "chōngdiànbǎo",
+        "arti": "Power bank"
+    },
+    {
+        "hanzi": "充电器",
+        "pinyin": "chōngdiànqì",
+        "arti": "Charger"
+    }
+]
