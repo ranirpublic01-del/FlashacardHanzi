@@ -1,0 +1,23 @@
+[
+    {"hanzi":"晴天","pinyin":"qíngtiān","arti":"Cerah"},
+    {"hanzi":"阴天","pinyin":"yīntiān","arti":"Mendung"},
+    {"hanzi":"下雨","pinyin":"xiàyǔ","arti":"Hujan"},
+    {"hanzi":"下雪","pinyin":"xiàxuě","arti":"Salju"},
+    {"hanzi":"风","pinyin":"fēng","arti":"Angin"},
+    {"hanzi":"大风","pinyin":"dàfēng","arti":"Angin kencang"},
+    {"hanzi":"雷","pinyin":"léi","arti":"Petir"},
+    {"hanzi":"雷阵雨","pinyin":"léizhènyǔ","arti":"Hujan petir"},
+    {"hanzi":"雾","pinyin":"wù","arti":"Kabut"},
+    {"hanzi":"潮湿","pinyin":"cháoshī","arti":"Lembab"},
+    {"hanzi":"温暖","pinyin":"wēnnuǎn","arti":"Hangat"},
+    {"hanzi":"很冷","pinyin":"hěn lěng","arti":"Sangat dingin"},
+    {"hanzi":"湿度","pinyin":"shīdù","arti":"Kelembapan"},
+    {"hanzi":"干燥","pinyin":"gānzào","arti":"Kering"},
+    {"hanzi":"酷热","pinyin":"kùrè","arti":"Sangat panas"},
+    {"hanzi":"春天","pinyin":"chūntiān","arti":"Musim semi"},
+    {"hanzi":"夏天","pinyin":"xiàtiān","arti":"Musim panas"},
+    {"hanzi":"秋天","pinyin":"qiūtiān","arti":"Musim gugur"},
+    {"hanzi":"冬天","pinyin":"dōngtiān","arti":"Musim dingin"},
+    {"hanzi":"季节变化","pinyin":"jìjié biànhuà","arti":"Perubahan musim"},
+    {"hanzi":"天气","pinyin":"tiānqì","arti":"Cuaca"}
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "arti": "Saya"
+    },
+    {
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "arti": "Kamu"
+    },
+    {
+        "hanzi": "他",
+        "pinyin": "tā",
+        "arti": "Dia laki-laki"
+    },
+    {
+        "hanzi": "她",
+        "pinyin": "tā",
+        "arti": "Dia perempuan"
+    },
+    {
+        "hanzi": "它",
+        "pinyin": "tā",
+        "arti": "Dia benda"
+    },
+    {
+        "hanzi": "我们",
+        "pinyin": "wǒmen",
+        "arti": "Kami"
+    },
+    {
+        "hanzi": "你们",
+        "pinyin": "nǐmen",
+        "arti": "Kalian"
+    },
+    {
+        "hanzi": "他们",
+        "pinyin": "tāmen",
+        "arti": "Mereka"
+    },
+    {
+        "hanzi": "人们",
+        "pinyin": "rénmen",
+        "arti": "Orang-orang"
+    },
+    {
+        "hanzi": "大家",
+        "pinyin": "dàjiā",
+        "arti": "Semua orang"
+    },
+    {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī",
+        "arti": "Guru"
+    },
+    {
+        "hanzi": "学生",
+        "pinyin": "xuésheng",
+        "arti": "Murid"
+    },
+    {
+        "hanzi": "工人",
+        "pinyin": "gōngrén",
+        "arti": "Pekerja"
+    },
+    {
+        "hanzi": "医生",
+        "pinyin": "yīshēng",
+        "arti": "Dokter"
+    },
+    {
+        "hanzi": "护士",
+        "pinyin": "hùshi",
+        "arti": "Perawat"
+    },
+    {
+        "hanzi": "司机",
+        "pinyin": "sījī",
+        "arti": "Sopir"
+    },
+    {
+        "hanzi": "老板",
+        "pinyin": "lǎobǎn",
+        "arti": "Bos"
+    },
+    {
+        "hanzi": "朋友",
+        "pinyin": "péngyou",
+        "arti": "Teman"
+    },
+    {
+        "hanzi": "家人",
+        "pinyin": "jiārén",
+        "arti": "Anggota keluarga"
+    },
+    {
+        "hanzi": "同事",
+        "pinyin": "tóngshì",
+        "arti": "Teman kerja"
+    },
+    {
+        "hanzi": "孩子们",
+        "pinyin": "háizimen",
+        "arti": "Anak-anak"
+    },
+    {
+        "hanzi": "父母",
+        "pinyin": "fùmǔ",
+        "arti": "Orangtua"
+    },
+    {
+        "hanzi": "邻居",
+        "pinyin": "línjū",
+        "arti": "Tetangga"
+    },
+    {
+        "hanzi": "顾客",
+        "pinyin": "gùkè",
+        "arti": "Pelanggan"
+    },
+    {
+        "hanzi": "那个人",
+        "pinyin": "nàge rén",
+        "arti": "Orang itu"
+    }
+]
